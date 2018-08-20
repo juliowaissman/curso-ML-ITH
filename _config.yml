@@ -4,7 +4,7 @@ subtitle: Univeridad de Sonora/ Departamento de Matemáticas
 email: julio.waissman@unison.mx
 description: Licenciatura en Ciencias de la Computación.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://IA-UNISON.github.io # the base hostname & protocol for your site
+url: https://ia-unison.github.io # the base hostname & protocol for your site
 author: Julio Waissman Vilanova
 institucion: Universidad de Sonora
 departamento: Departamento de Matemáticas
