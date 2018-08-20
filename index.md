@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Procesamiento de Lenguaje Natural, <br>material del curso'
+landing-title: 'Inteligencia Artificial, <br>material del curso'
 description: null
 image: null
 author: null
