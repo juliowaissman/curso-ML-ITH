@@ -7,37 +7,16 @@ image: null
 author: null
 ---
 
-Estudié el doctorado en sistemas (especialidad en sistemas
-automáticos) en el [Instituto Nacional Politécnico de
-Toulouse](http://www.inp-toulouse.fr) en el 2000. El trabajo de
-investigación del doctorado lo realicé en el [Laboratorio de
-Arquitectura y Análisis de Sistemas](https://www.laas.fr)
-desarrollando modelos difusos aplicados a la supervisión de procesos
-biotecnológicos, aplicando técnicas de aprendizaje supervisado y no
-supervisado.
+### Remedios Varo
 
-Del 2002 al 2007 fui profesor titular de la [Universidad Autónoma del
-Estado de Hidalgo](https://www.uaeh.edu.mx). Durante ese tiempo fui
-fundador y coordinado de la Maestría en Ciencias en Automatización y
-Control. Durante este periodo, mis intereses en investigación se
-centraron en el desarrollo de técnicas de modelado y control de
-procesos biotecnológico con pocas o escasas mediciones. En particular
-el desarrollo de modelos y técnicas basadas en aprendizaje iterativo y
-aprendizaje por refuerzo, utilizando lógica difusa.
+*María de los Remedios Alicia Rodriga Varo y Uranga (de [wikipedia](https://es.wikipedia.org/wiki/Remedios_Varo) )* (Anglès, Gerona, España, 16 de diciembre de 1908 – Ciudad de México, 8 de octubre de 1963), conocida como Remedios Varo, fue una pintora surrealista, escritora y artista gráfica española exiliada política en México primero y más tarde naturalizada mexicana. Fue una de las primeras mujeres que estudiaron en la Real Academia de Bellas Artes de San Fernando de Madrid. En 1932 se estableció en Barcelona donde trabajó como diseñadora publicitaria y se sumó al grupo surrealista catalán Logicofobista. En 1937 viajó a París junto al poeta surrealista francés Benjamin Péret y en 1941 con la llegada de los nazis a la capital francesa, se exilió a México. Nunca regresó a España. La obra de Varo evoca un mundo surgido de su imaginación donde se mezcla lo científico, lo místico, lo esotérico y lo mágico.
 
+Su obra completa está teñida de una atmósfera de misticismo, plasmado en las figuras representativas del mundo secular moderno. Su pintura está puntualizada por un marcado interés por la iconografía científica, por ello años después las obras de la pintora han sido retomadas cada vez con más frecuencia en la literatura de divulgación.
 
-Desde el 2007 soy Profesor-Investigador Titular del Departamento de
-Matemáticas de la [Universidad de Sonora](http://www.uson.mx),
-ofreciendo los cursos del área de Inteligencia Artificial en la [Licenciatura
-en Ciiencias de la Computación](http://cc.uson.mx). En los últimos
-años he trabajado en el modelado y análisis, basado en técnicas
-provenientes de la lógica difusa, para sistemas pobremente
-definidos. En particular, me he centrado en el modelado y control de
-campos de helióstatos de torre central, así como en modelos de
-estimación de la precipitación durante el monzón de verano en el
-noroeste de México. En todos los casos, mi interés se centra en la
-adaptación e implementación de métodos de aprendizaje automático para
-la estimación (o corrección) de los modelos. Si estás interesado
-puedes consultar mis intereses en
-[researchgate](https://www.researchgate.net/profile/Julio_Vilanova)
-aunque no suelo actualizar la información muy seguido.
+Remedios Varo es de las primeras mujeres artistas en introducir y popularizar su trabajo en México, gracias a sus relaciones personales con otras artistas que radicaban allí, como la pintora británica Leonora Carrington, con quien conservó una buena amistad, y otros miembros de la élite artística e intelectual mexicana de mediados del siglo XX.
+
+En el año 2000, Walter Gruen, su viudo, donó la colección de obras de Remedios Varo al Museo de Arte Moderno de México. La mayoría de estas obras fueron legalmente compradas a coleccionistas privados que a su vez las habían adquirido legalmente en galerías. Fueron declaradas monumento artístico mexicano el 26 de diciembre de 2001. 
+
+Por medio de un movimiento judicial, avalado por las juezas María Margarita Gallegos López y Rebeca Pujol Rosas, en ese año la española Beatriz María Varo Jiménez, sobrina de Remedios y también pintora, fue declarada por el Juzgado Décimo Tercero de lo Familiar en el Distrito Federal de México como única y universal albacea de la sucesión de bienes de su tía Remedios Varo. En marzo de 2005 el Instituto Nacional de Bellas Artes de México apeló el dictamen, el cual se suspendió temporalmente en lo que las instancias judiciales competentes revisaban el caso. Finalmente, el 11 de enero de 2008, la titular del juzgado décimo tercero de lo familiar, María Margarita Gallegos López, emitió una sentencia donde señaló que la Federación, entendida como la nación mexicana, es la única y legítima propietaria de las obras de Remedios Varo.
+
+Cabe señalar que, en vida, la pintora vendió o regaló la mayoría de sus obras, aduciendo que lo que más le importaba era el proceso creativo, no las obras en sí. Algunas de sus obras las puedes conusltar en [esta página](https://www.wikiart.org/en/remedios-varo).
