@@ -1,8 +1,8 @@
 # site settings
-title: PLN/MTI
-subtitle: Univeridad Nacional de Misiones/ Universidad Nacional del Nordeste
+title: IA@UNISON
+subtitle: Univeridad de Sonora/ Departamento de Matemáticas
 email: julio.waissman@unison.mx
-description: Maestría en Tecnologías de la Información.
+description: Licenciatura en Ciencias de la Computación.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://unam-pln.github.io # the base hostname & protocol for your site
 author: Julio Waissman Vilanova
