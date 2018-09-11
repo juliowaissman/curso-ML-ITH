@@ -38,3 +38,35 @@ image: assets/images/parte2.jpg
 - Libreta de *Jupyter* (Python 3.X): modelo de generación de texto con redes recurrentes
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/redes_recurrentes.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/redes_recurrentes.ipynb).
+
+
+
+## Evidencias de resolución de libretas por los participantes del curso (orden alfabético por apellidos):
+
+- [Ricardo Holgín](https://github.com/RicardoHE97/RN-Unison)
+
+- [Ivan Moreno](https://github.com/rexemin/Libretas-RN-UNISON)
+
+- [Raúl Pérez](https://github.com/raulperod/redes-neuronales)
+
+- [Cesar Ernesto Salazar](https://github.com/cesern/redes-neuronales/)
+
+- [José Roberto Salazar](https://github.com/robertosalazare/redesneuronales_libretas)
+
+- [Luís Fernando Sotomayor](https://bitbucket.org/sanlf/)
+
+- [Jordan Joel Urías](https://github.com/jjups96/Libretas-rn)
+
+
+## Relación de libretas con participantes en el curso
+
+| Nombre       | Lineal                                           | Logística | Softmax | B-prop | R-prop |
+|--------------|--------------------------------------------------|-----------|---------|--------|--------|
+| R. Holgín    | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
+| I. Moreno    | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
+| R. Pérez     | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
+| C. Salazar   | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
+| R. Salazar   | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
+| L. Sotomayor | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
+| J. Urias     | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
+| A. Vázquez   | <i class="fa fa-bicycle" aria-hidden="true"></i> |           |         |        |        |
