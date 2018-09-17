@@ -34,6 +34,11 @@ profundo.
 - [Una página que explica muy claramente las unidades *softmax* y su
   aprendizaje](https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/)
 
+- [Un tutorial como hace mucho estaba buscando sobre el método de
+  descenso de gradiente y sus modificaciones para redes
+  neuronales](http://ruder.io/optimizing-gradient-descent/index.html)
+
+
 - [Un artículo sobre lo que todavía no se puede hacer con *deep
   learning*](/articulos/dl_critical.pdf)
 
