@@ -62,14 +62,14 @@ image: assets/images/parte2.jpg
 
 ## Relación de libretas con participantes en el curso
 
-| Nombre       | Lineal                                           | Logística | Softmax | B-prop | R-prop |
-|--------------|--------------------------------------------------|-----------|---------|--------|--------|
-| F. Córdova   | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
-| R. Holgín    | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
-| I. Moreno    | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
-| R. Pérez     | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
-| C. Salazar   | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
-| R. Salazar   | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
-| L. Sotomayor | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
-| J. Urias     | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
-| A. Vázquez   | <i class="fa fa-bicycle" aria-hidden="true"></i> |           |         |        |        |
+| Nombre       | Lineal                                           | Logística                                       | Softmax                                         | B-prop | R-prop |
+|--------------|--------------------------------------------------|-------------------------------------------------|-------------------------------------------------|--------|--------|
+| F. Córdova   | <i class="fa fa-rocket" aria-hidden="true"></i>  | <i class="fa fa-rocket" aria-hidden="true"></i> | <i class="fa fa-rocket" aria-hidden="true"></i> |        |        |
+| R. Holgín    | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
+| I. Moreno    | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
+| R. Pérez     | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
+| C. Salazar   | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
+| R. Salazar   | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
+| L. Sotomayor | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
+| J. Urias     | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
+| A. Vázquez   | <i class="fa fa-bicycle" aria-hidden="true"></i> |                                                 |                                                 |        |        |
