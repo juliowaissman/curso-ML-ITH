@@ -43,6 +43,8 @@ image: assets/images/parte2.jpg
 
 ## Evidencias de resolución de libretas por los participantes del curso (orden alfabético por apellidos):
 
+- [Fransisco Córdova](https://github.com/Franko1307/redes-neuronales-unison)
+
 - [Ricardo Holgín](https://github.com/RicardoHE97/RN-Unison)
 
 - [Ivan Moreno](https://github.com/rexemin/Libretas-RN-UNISON)
@@ -62,6 +64,7 @@ image: assets/images/parte2.jpg
 
 | Nombre       | Lineal                                           | Logística | Softmax | B-prop | R-prop |
 |--------------|--------------------------------------------------|-----------|---------|--------|--------|
+| F. Córdova   | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
 | R. Holgín    | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
 | I. Moreno    | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
 | R. Pérez     | <i class="fa fa-rocket" aria-hidden="true"></i>  |           |         |        |        |
