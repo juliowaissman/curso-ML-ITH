@@ -38,6 +38,7 @@ profundo.
   descenso de gradiente y sus modificaciones para redes
   neuronales](http://ruder.io/optimizing-gradient-descent/index.html)
 
+- [Una presentación de un tutorial introductorio a DL](http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf)
 
 - [Un artículo sobre lo que todavía no se puede hacer con *deep
   learning*](/articulos/dl_critical.pdf)
