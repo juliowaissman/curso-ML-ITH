@@ -79,3 +79,8 @@ imágenes](https://towardsdatascience.com/deep-learning-for-object-detection-a-c
 - [Una serie de posts sobre Deep RL de A. Juliani, enfocados a su implementación en *TensorFlow*](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 
 - [El tutorial de Karpahty sobre DRL](http://karpathy.github.io/2016/05/31/rl/)
+
+
+## Exámenes
+
+- [Primer examen intermedio](/presentaciones/examen_intermedio_2018b.pdf)
