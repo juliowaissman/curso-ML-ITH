@@ -33,6 +33,8 @@ le doy el crédito correspondiente a quien las hizo.
   utilizando redes neuronales
   convolucionales](/presentaciones/style_transfer.pdf)
 
+- [Una presentación fea pero completa sobre *campos aleatorios condicionales* (CRF)](/presentaciones/crf_intro.pdf)
+
 - [Una presentación introductoria de redes recurrentes (de G. Hitton)](/presentaciones/redes_recurrentes.pdf)
 
 - [Una presentación inicial sobre aprendizaje por refuerzo (presentación mía viejita)](/presentaciones/rl_intro.pdf)

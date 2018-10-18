@@ -1,0 +1,51 @@
+#+STARTUP: beamer
+#+TITLE:     Redes convolucionales
+#+AUTHOR:    \href{mailto:julio.waissman@unison.mx}{Julio Waissman}
+#+DATE:      Curso de Redes Neuronales
+#+BEAMER_HEADER: \subtitle{Ideas generales}
+#+BEAMER_HEADER: \institute[LCC/UNISON]{Licenciatura en Ciencias de la Computación\\Universidad de Sonora}
+#+BEAMER_HEADER: \titlegraphic{\includegraphics[height=1.5cm]{letragrama.png}}
+# #+BEAMER_HEADER: \titlegraphic{\includegraphics[width=\textwidth,height=.3\textheight]{portada.png}}
+
+# Agrega una imagen en media presentación
+
+#+DESCRIPTION: Presentación curso RN/LCC/UNISON
+#+LANGUAGE:  es
+
+#+INCLUDE: "./setup.org"
+
+
+* Aprendizaje profundo (DL)                                         :B_frame:
+  :PROPERTIES:
+  :BEAMER_env: frame
+  :END:
+#+Beamer: \framesubtitle{Motivación}
+
+#+ATTR_LATEX: :float t
+#+ATTR_LaTeX: :width 0.80\textwidth
+[[./imagenes/bb2001.png]]
+
+
+
+* Redes convolucionales (CNN)                                       :B_frame:
+  :PROPERTIES:
+  :BEAMER_env: frame
+  :END:
+#+Beamer: \framesubtitle{Información local}
+
+\vfill
+#+ATTR_LATEX: :float t
+#+ATTR_LaTeX: :width 0.90\textwidth
+[[./imagenes/convol.png]]\vfill
+
+
+* Redes convolucionales (CNN)                                       :B_frame:
+  :PROPERTIES:
+  :BEAMER_env: frame
+  :END:
+#+Beamer: \framesubtitle{Arquitectura general}
+
+\vfill
+#+ATTR_LATEX: :float t
+#+ATTR_LaTeX: :width 0.99\textwidth
+[[./imagenes/cnn_nature.jpg]]\vfill
