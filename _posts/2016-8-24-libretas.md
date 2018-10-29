@@ -29,7 +29,12 @@ image: assets/images/parte2.jpg
 - Libreta de *Jupyter* (Python 3.X): red neuronal sencilla en
   TensorFlow
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/tensorflow_red_simple.ipynb)
-  [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/intro_tensorflow.zip).
+  [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/tensorflow_red_simple.zip).
+
+- Libreta de *Jupyter* (Python 3.X): red neuronal convolucional sencilla en
+  TensorFlow
+  [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/tensorflow_red_simple-cnn.ipynb)
+  [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/tensorflow_red_simple_cnn.zip).
 
 
 - [Libreta de *Jupyter* (Kernel 3.X) para crear un modelo de CNN en *Tensorflow* (1.3 o más reciente)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/red_convolucional_simple.ipynb)
