@@ -13,4 +13,5 @@ image: assets/images/parte4.jpg
 3. [Proyectos de Stanford](http://cs230.stanford.edu/proj-spring-2018.html)
 4. [Proyectos para generación de música](https://medium.com/artists-and-machine-intelligence/neural-nets-for-generating-music-f46dffac21c0)
 5. [Modulo de NLU](https://allennlp.org)
+5. [25 proyectos de DL](https://heartbeat.fritz.ai/25-open-source-machine-learning-repos-to-inspire-your-next-project-3b027a90155)
 
