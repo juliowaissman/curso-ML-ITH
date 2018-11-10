@@ -9,7 +9,7 @@ image: assets/images/parte3.jpg
 
 | Desarrollador                 | Proyecto                                                                                                                                         |
 | -------------                 | --------                                                                                                                                         |
-| **Francisco E. Córdova** | [Contador de celulas blancas en imágenes con CNN] (https://franko1307.github.io/2018/11/05/Clasificador-redes-neuronales.html) |
+| **Francisco E. Córdova** | [Contador de celulas blancas en imágenes con CNN](https://franko1307.github.io/2018/11/05/Clasificador-redes-neuronales.html) |
 | **Jordan Joel Urias**  | [Transferencia de estilo rápida](https://jjups96.github.io/fast-style-transfer/) |                                                               
 | **Cesar Ernesto Salazar**         | [Algoritmo *face2face*](https://cesern.github.io//face2face-demo/) |                                                                                
 | **Ricardo Holguín Esquer**        | [*Sketch2shiba*](https://ricardohe97.github.io/post/sketch2shiba/) |
