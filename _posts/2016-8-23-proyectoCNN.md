@@ -26,6 +26,6 @@ image: assets/images/parte3.jpg
 | **Erick Fernando López** | [**Pokedex** Reconocimiento de *pokemones*](https://ErickLF.github.io/Pokedex-R-CNN) |
 | **Jesús Abraham Moreno** | [Reconocimento de botellas de cerveza](https://abmorenoc.github.io/Deteccion-de-objetos-en-imagenes/)  |
 | **Fernando Alexis Martínez** | [Reconocimiento de víboras](https://alexis96.github.io/proyecto-CNN/) |
-| **Luís Roberto Montaño Valdez** | [Reconocimiento de *pokemones*](https://nanmon.github.io/redes-neuronales/) |
+| **Luís Roberto Montaño Valdez** | [¿Chihuahua o *Muffin*?](https://nanmon.github.io/redes-neuronales/cnn) |
 
 
