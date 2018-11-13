@@ -14,7 +14,7 @@ image: assets/images/parte3.jpg
 | **Cesar Ernesto Salazar**         | [Algoritmo *face2face*](https://cesern.github.io//face2face-demo/) |                                                                                
 | **Ricardo Holguín Esquer**        | [*Sketch2shiba*](https://ricardohe97.github.io/post/sketch2shiba/) |
 | **Luis Fernando Sotomayor**       | [Experiencias desarrollando clasificador binario](https://sanlf.github.io/2018/11/08/clasificador-binario.html)|
-|**Belén Chavarría**                | [Algoritmo *face2face*](https://github.com/chasil7/face2faceProyecto.)
+|**Belén Chavarría**                | [Algoritmo *face2face*](https://github.com/chasil7/face2faceProyecto) |
 
 
 
