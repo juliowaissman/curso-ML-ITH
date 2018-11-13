@@ -15,3 +15,13 @@ image: assets/images/parte4.jpg
 5. [Modulo de NLU](https://allennlp.org)
 5. [25 proyectos de DL](https://heartbeat.fritz.ai/25-open-source-machine-learning-repos-to-inspire-your-next-project-3b027a90155)
 
+
+
+## Listado de proyectos selectos desarrollados en otros semestres
+
+
+| Desarrollador                 | Proyecto |
+| -------------                 | -------- |
+| **Erick López** | [*G-Texts*: Generación de textos en español](https://ericklf.github.io/Generador-Textos-RNN/) |
+| **Fernando Alexis Martínez** | [Generación de textos políticos](https://alexis96.github.io/proyecto-RNN/)  |
+
