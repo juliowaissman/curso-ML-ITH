@@ -90,3 +90,4 @@ imágenes](https://towardsdatascience.com/deep-learning-for-object-detection-a-c
 ## Exámenes
 
 - [Primer examen intermedio](/presentaciones/examen_intermedio_2018b.pdf)
+- [Examen final](/articulos/global_2018b.pdf)
