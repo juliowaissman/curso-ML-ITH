@@ -64,7 +64,7 @@ image: assets/images/parte2.jpg
 
 | Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | RNN   | RL    |
 |--------------|--------|-----------|---------|--------|----------|---- | ----  | ----- |
-| F. Córdova   |  si    |    si     |    si   |   si   |   si     |  si |  si   |  no   |
+| F. Córdova   |  si    |    si     |    si   |   si   |   si     |  si |  si   |  si   |
 | R. Pérez     |  si    |    si     |    si   |   si   |   si     |  si |  1/2  |  no   |
 | C. Salazar   |  si    |    si     |    si   |   si   |   si     |  si |  1/2  |  no   |
 | R. Salazar   |  si    |    si     |    si   |   si   |   si     | 1/2 |  1/2  |  si   |
