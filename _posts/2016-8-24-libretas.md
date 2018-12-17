@@ -46,35 +46,27 @@ image: assets/images/parte2.jpg
 
 
 
-## Evidencias de resolución de libretas por los participantes del curso (orden alfabético por apellidos):
+## Evidencias de resolución de libretas por los participantes del curso (solo los que vamos a evaluar):
 
 - [Fransisco Córdova](https://github.com/Franko1307/redes-neuronales-unison)
 
-- [Ricardo Holgín](https://github.com/RicardoHE97/RN-Unison)
-
-- [Ivan Moreno](https://github.com/rexemin/Libretas-RN-UNISON)
-
 - [Raúl Pérez](https://github.com/raulperod/redes-neuronales)
 
-- [Cesar Ernesto Salazar](https://github.com/cesern/redes-neuronales/)
+- [Cesar Salazar](https://github.com/cesern/redes-neuronales/)
 
-- [José Roberto Salazar](https://github.com/robertosalazare/redesneuronales_libretas)
+- [Roberto Salazar](https://github.com/robertosalazare/redesneuronales_libretas)
 
 - [Luís Fernando Sotomayor](https://bitbucket.org/sanlf/)
 
-- [Jordan Joel Urías](https://github.com/jjups96/Libretas-rn)
-
+- [Adrián Vazquez](https://github.com/adrianEVI/neural-network/tree/master/notebook)
 
 ## Relación de libretas con participantes en el curso
 
-| Nombre       | Lineal                                           | Logística                                       | Softmax                                         | B-prop | R-prop |
-|--------------|--------------------------------------------------|-------------------------------------------------|-------------------------------------------------|--------|--------|
-| F. Córdova   | <i class="fa fa-rocket" aria-hidden="true"></i>  | <i class="fa fa-rocket" aria-hidden="true"></i> | <i class="fa fa-rocket" aria-hidden="true"></i> |        |        |
-| R. Holgín    | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
-| I. Moreno    | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
-| R. Pérez     | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
-| C. Salazar   | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
-| R. Salazar   | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
-| L. Sotomayor | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
-| J. Urias     | <i class="fa fa-rocket" aria-hidden="true"></i>  |                                                 |                                                 |        |        |
-| A. Vázquez   | <i class="fa fa-bicycle" aria-hidden="true"></i> |                                                 |                                                 |        |        |
+| Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | RNN   | RL    |
+|--------------|--------|-----------|---------|--------|----------|---- | ----  | ----- |
+| F. Córdova   |  si    |    si     |    si   |   si   |   si     |  si |  si   |  no   |
+| R. Pérez     |  si    |    si     |    si   |   si   |   si     |  si |  1/2  |  no   |
+| C. Salazar   |  si    |    si     |    si   |   si   |   si     |  si |  1/2  |  no   |
+| R. Salazar   |  si    |    si     |    si   |   si   |   si     | 1/2 |  1/2  |  si   |
+| L. Sotomayor |  si    |    si     |    si   |   si   |   si     | 1/2 |  1/2  |  no   |
+| A. Vázquez   |  si    |    si     |    si   |   si   |   si     |  no |  no   |  no   |
