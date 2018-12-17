@@ -15,6 +15,8 @@ image: assets/images/parte3.jpg
 | **Ricardo Holguín Esquer**        | [*Sketch2shiba*](https://ricardohe97.github.io/post/sketch2shiba/) |
 | **Luis Fernando Sotomayor**       | [Experiencias desarrollando clasificador binario](https://sanlf.github.io/2018/11/08/clasificador-binario.html)|
 |**Belén Chavarría**                | [Algoritmo *face2face*](https://github.com/chasil7/face2faceProyecto) |
+|**Raúl Pérez** | [FaceLock](https://raulperod.github.io/FaceLock/)|
+|**Roberto Salazar** | [Estimador de edad y genero](https://rn-blog.herokuapp.com/age-gender) |
 
 
 
