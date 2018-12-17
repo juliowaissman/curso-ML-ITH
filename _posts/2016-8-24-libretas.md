@@ -68,5 +68,5 @@ image: assets/images/parte2.jpg
 | R. Pérez     |  si    |    si     |    si   |   si   |   si     |  si |  1/2  |  no   |
 | C. Salazar   |  si    |    si     |    si   |   si   |   si     |  si |  1/2  |  no   |
 | R. Salazar   |  si    |    si     |    si   |   si   |   si     | 1/2 |  1/2  |  si   |
-| L. Sotomayor |  si    |    si     |    si   |   si   |   si     | 1/2 |  1/2  |  no   |
+| L. Sotomayor |  si    |    si     |    si   |   si   |   si     | 1/2 |  1/2  |  si   |
 | A. Vázquez   |  si    |    si     |    si   |   si   |   si     |  no |  no   |  no   |
