@@ -22,7 +22,7 @@ image: assets/images/parte4.jpg
 | **Francisco E. Córdova** | [Creando música con redes recurrentes](https://franko1307.github.io/2018/11/21/Creando-musica-con-redes-recurrentes.html) |
 | **Cesar Ernesto Salazar**         | [Generando música de piano con RNN-RBM](https://cesern.github.io/Music_RNN_RBM/) |                                                                                
 | **Luis Fernando Sotomayor**       | [Generación de música con LSTM](https://sanlf.github.io/2018/11/30/generacion_musica.html)|
-|**Belén Chavarría**                | Pendiente |
+|**Belén Chavarría**                | [Generador de recetas](https://github.com/chasil7/RNNrecetas) |
 |**Raúl Pérez** | [Generador de canciones monofónicas utilizando LSTM](https://raulperod.github.io/MIDI-Music-Generator/)|
 |**Roberto Salazar** | [Generación de cartas de Hearthstone con redes neuronales recurrentes](https://rn-blog.herokuapp.com/cards-generation) |
 
