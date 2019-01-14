@@ -14,11 +14,10 @@ Profundo")
 Este libro se edito por *MIT Press*, pero la editorial permitió a los
 autores subir el material en linea de forma gratuita. La única
 condición que puso la editorial es que solo se puede consultarlo
-directamente en la red, por lo que su formato o es f    \makeemptybox{2in}
-ácilmente
-traducible a pdf u otros formatos. Es considerado desde hace 3 años
-que se puso en linea el primer borrador como la biblia del aprendizaje
+directamente en la red, por lo que su formato no es posible convertirlo a pdf u otros formatos. Es considerado desde hace 3 años que se puso en linea el primer borrador como la biblia del aprendizaje
 profundo.
+
+La bibliotece de la DCEN tiene varias copias.
 
 
 ## Introducción y principios básicos de redes neuronales
