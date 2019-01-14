@@ -5,7 +5,14 @@ description: Proyecto de red convolucional
 image: assets/images/parte3.jpg
 ---
 
-## Listado de proyectos desarrollados por los estudiantes, 2018-2
+## Listado de proyectos desarrollados por los estudiantes, 2019-1
+
+| Desarrollador                 | Proyecto |
+| -------------                 | -------- |
+
+
+
+## Listado de proyectos selectos desarrollados en otros semestres
 
 | Desarrollador                 | Proyecto |
 | -------------                 | -------- |
@@ -17,14 +24,6 @@ image: assets/images/parte3.jpg
 |**Belén Chavarría**                | [Algoritmo *face2face*](https://github.com/chasil7/face2faceProyecto) |
 |**Raúl Pérez** | [FaceLock](https://raulperod.github.io/FaceLock/)|
 |**Roberto Salazar** | [Estimador de edad y genero](https://rn-blog.herokuapp.com/age-gender) |
-
-
-
-## Listado de proyectos selectos desarrollados en otros semestres
-
-
-| Desarrollador                 | Proyecto |
-| -------------                 | -------- |
 | **Erick Fernando López** | [**Pokedex** Reconocimiento de *pokemones*](https://ErickLF.github.io/Pokedex-R-CNN) |
 | **Jesús Abraham Moreno** | [Reconocimento de botellas de cerveza](https://abmorenoc.github.io/Deteccion-de-objetos-en-imagenes/)  |
 | **Fernando Alexis Martínez** | [Reconocimiento de víboras](https://alexis96.github.io/proyecto-CNN/) |
