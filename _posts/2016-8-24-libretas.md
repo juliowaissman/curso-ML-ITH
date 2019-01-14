@@ -8,40 +8,36 @@ image: assets/images/parte2.jpg
 Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, es recomendable hacerlo desde un *contenedor de Docker* el cual se encuentra en elaboración.
 
 
-- Aprendizaje de una neurona lineal
+- Aprendizaje de una neurona lineal **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/neurona_lineal.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/neurona_lineal.zip).
 
 - Aprendizaje de una neurona
-  logística
+  logística **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/neurona_logistica.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/neurona_logistica.zip).
 
-- Aprendizaje de una unidad softmax
+- Aprendizaje de una unidad softmax **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/unidad_softmax.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/unidad_softmax.zip).
 
-- Redes hacia adelante
+- Redes hacia adelante **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/redes_neuronal_hacia_adelante.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/redes_neuronal_hacia_adelante.zip).
 
-- Conceptos básicos de TensorFlow
+- Conceptos básicos de TensorFlow **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/intro_tensorflow.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/intro_tensorflow.zip).
 
-- Red neuronal sencilla en TensorFlow
+- Red neuronal sencilla en TensorFlow **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/tensorflow_red_simple.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/tensorflow_red_simple.zip).
 
-- Red neuronal convolucional sencilla en TensorFlow
+- Red neuronal convolucional sencilla en TensorFlow **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/tensorflow_red_simple-cnn.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/tensorflow_red_simple_cnn.zip).
 
-
-- Crear un modelo de CNN en *Tensorflow* (1.3 o más reciente)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/red_convolucional_simple.ipynb)
-
-
-- Modelo de generación de texto con redes recurrentes
+- Modelo de generación de texto con redes recurrentes **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/redes_recurrentes.ipynb)
   [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/redes_recurrentes.ipynb).
 
