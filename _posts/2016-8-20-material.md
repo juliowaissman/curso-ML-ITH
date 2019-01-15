@@ -19,6 +19,9 @@ profundo.
 
 La bibliotece de la DCEN tiene varias copias.
 
+## Repositorios con material general
+
+- [Una muy buena recopilación de material y ligas sobre aprendizaje profundo](https://github.com/osforscience/deep-learning-ocean)
 
 ## Introducción y principios básicos de redes neuronales
 
