@@ -1,0 +1,63 @@
+export PS1="\[\e[31m\]rn-docker\[\e[m\] \[\e[33m\]\W\[\e[m\] >
+
+export TERM=xterm-256color
+alias grep="grep --color=auto"
+alias ls="ls --color=auto"
+
+echo -e "\e[1;31m"
+cat<<RN
+______ _   _     _   _ _   _ _____ _____  _____ _   _ 
+| ___ \ \ | |   | | | | \ | |_   _/  ___||  _  | \ | |
+| |_/ /  \| |   | | | |  \| | | | \ `--. | | | |  \| |
+|    /| . ` |   | | | | . ` | | |  `--. \| | | | . ` |
+| |\ \| |\  |   | |_| | |\  |_| |_/\__/ /\ \_/ / |\  |
+\_| \_\_| \_/    \___/\_| \_/\___/\____/  \___/\_| \_/
+                                                       
+RN
+echo -e "\e[0;33m"
+
+if [[ $EUID -eq 0 ]]; then
+  cat <<WARN
+================================================================================
+|                             ¡CUIDADO!                                        |
+|------------------------------------------------------------------------------|
+|  El contenedor se ejecuto como root, y todos los archivos que se guarden     |
+|  en los volumenes montados se van a crear con usuario root (lo que puede     |
+|  ser engorroso para usarlos después fuera del contenedor de Docker.          |
+|                                                                              |
+|  Para evitar esto, hay que ejecutar el contenedor con                        |
+|                                                                              |
+|  $ docker run -u \$(id -u):\$(id -g) args...                                 |
+|                                                                              |
+|  Revisa por favor la documentación de instalación y uso de la imagen         |
+================================================================================
+WARN
+fi
+
+echo -e "\e[1;31m"
+cat<<WELCOME
+Este es el contenedor Docker del curso de Redes Neuronales de la LCC@UNISON.
+
+Esperamos que en este contenedor ya se encuentren instaladas todas las
+dependencias necesarias tanto para realizar las libretas del curso, como para
+poder realizar otro tipo de proyectos de aprendizaje profundo.
+
+Si necesitas algún paquete extra, lo puedes instalar utilizando el comando:
+
+$ apt-get install NOMBRE_PAQUETE
+
+Si necesitas algún modulo de python no instalado
+
+$ pip3 install MODULO_PYTHON
+
+Para ejecutar Jupyter
+
+$ run_notebook
+
+y en el navegador normal ir a la dirección http://localhost:8080
+
+WELCOME
+echo -e "\e[0;33m"
+
+# Turn off colors
+echo -e "\e[m"

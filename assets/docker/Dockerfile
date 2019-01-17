@@ -1,28 +1,74 @@
-FROM ubuntu:16.04
+# Dockerfile creada para el curso de redes neuronales
+# Universidad de Sonora, Licenciatura en Ciencias de la Computación
+# Ultima modificación: 16 enero de 2018
+# Elaborado por J. Waissman, basado en las dockerfiles de Tensorflow y las propias
+
+# Este dockerfile solamente genera imágenes para CPU, es necesario instalar 
+# lo correspondiente para ejecutar en el servidor
+
+FROM ubuntu:16.04 AS base
 LABEL maintainer="Julio Waissman <julio.waissman@unison.mx>"
 
-
+#
 # Actualiza el SO e instala librerías necesarias
-# (en particular python3
+#
 RUN apt-get update && apt-get install -yq \
-                        python3 python3-pip htop nano git wget \
-                        curl libglib2.0-0 autoconf automake \
-                        libtool build-essential unzip \
-                        libarchive-dev vim cowsay
+            build-essential \
+            curl \
+            git \
+            wget \
+            graphviz \
+            vim \
+            htop \
+            unzip \
+            zip \
+            openjdk-8-jdk \
+            openjdk-8-jre-headless \
+    && \
+    apt-get clean 
 
-# Instala Fasttext de Facebook de acuerdo a las instrucciones
-# (https://github.com/facebookresearch/fastText)
-RUN wget https://github.com/facebookresearch/fastText/archive/v0.1.0.zip && \
-    unzip v0.1.0.zip && \
-    cd fastText-0.1.0 && \
-    make && \
-    cp -Rf fasttext /usr/local/bin
+#
+# Entornos
+#
+ENV CI_BUILD_PYTHON python
+ENV LANG C.UTF-8
 
-# Instala las librerías de Python
-ADD modulos-python.txt /
-RUN pip3 install -r modulos-python.txt
+#
+# Instala python3 y actualiza
+#
+RUN apt-get update && apt-get install -yq \
+    python3 \
+    python3-pip
 
+RUN pip3 --no-cache-dir install --upgrade \
+    pip \
+    setuptools
+
+RUN ln -s $(which python3) /usr/local/bin/python
+
+#
+# Instala los móduos más interesantes para redes neuronales
+#
+RUN pip3 install \
+    Pillow \
+    requests \
+    pyyaml \
+    pydot \
+    h5py \
+    matplotlib \
+    numpy \
+    scipy \
+    sklearn \
+    pandas \
+    tensorflow \
+    keras \
+    jupyter
+
+#
 # Instala las extensiones de jupyter y lo configura
+#
+
+RUN pip3 install jupyter_contrib_nbextensions
 RUN jupyter nbextension enable --py --sys-prefix widgetsnbextension
 RUN jupyter contrib nbextension install
 RUN jupyter nbextension enable codefolding/main
@@ -31,23 +77,36 @@ RUN echo "c.NotebookApp.port = 8080" >> /root/.jupyter/jupyter_notebook_config.p
 RUN echo "c.NotebookApp.token = ''" >> /root/.jupyter/jupyter_notebook_config.py
 RUN echo "jupyter notebook --no-browser --allow-root" >> /usr/local/bin/run_notebook && chmod +x /usr/local/bin/run_notebook
 
-# Saludamos al entrar
-ADD saludo.txt /
-RUN echo '[ ! -z "$TERM" -a -r /etc/motd ] && cat /etc/motd' \
-        >> /etc/bash.bashrc \
-        ; cat saludo.txt | /usr/games/cowsay -W 60 > /etc/motd
+#
+# Iniciacliza .bashrc con saludos y demás
+#
+COPY bashrc /etc/bash.bashrc
+RUN chmod a+rwx /etc/bash.bashrc
 
-# Directorio considerado el de usuario (superusuario del contenedor)
-WORKDIR /root
+#
+# Instala los ejemplos de tensorflow
+#
+RUN mkdir -p /curso-rn/tutoriales-tensorflow && chmod -R a+rwx /curso-rn/
+RUN mkdir /.local && chmod a+rwx /.local
 
-# Descarga el modelo en español (pequeño) de spacy
-RUN python3 -m spacy download es_core_news_sm
+WORKDIR /tf/tutoriales-tensorflow
 
-# Descarga los datos necesarios para NLTK
-RUN python3 -m nltk.downloader punkt stopwords spanish_grammars
+RUN wget https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tutorials/keras/basic_classification.ipynb
+RUN wget https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tutorials/keras/basic_regression.ipynb
+RUN wget https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tutorials/keras/basic_text_classification.ipynb
+RUN wget https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tutorials/keras/save_and_restore_models.ipynb
+RUN wget https://raw.githubusercontent.com/tensorflow/docs/master/site/en/tutorials/keras/save_and_restore_models.ipynb
 
-# Instala la libraría que se me escapó para no tener que recompilar todas las estapas
-RUN pip3 install pyldavis
-
+#
 # Expone al SO original el puerto 8080 para poder usar jupyter
+#
 EXPOSE 8080
+
+#
+# Iniciliza el directorio de trabajo en curso-rn y ejecuta
+#
+RUN python3 -m ipykernel.kernelspec
+WORKDIR /curso-rn
+
+CMD ["bash", "-c", "source /etc/bash.bashrc"]
+
