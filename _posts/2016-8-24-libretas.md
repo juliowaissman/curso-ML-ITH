@@ -8,9 +8,9 @@ image: assets/images/parte2.jpg
 Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, es recomendable hacerlo desde un *contenedor de Docker* el cual se encuentra en elaboración.
 
 
-- Aprendizaje de una neurona lineal **(en proceso de modificación)**
-  [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/neurona_lineal.ipynb)
-  [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/neurona_lineal.zip).
+- Aprendizaje de una neurona lineal **(para desarrollar)**
+  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/regresion-lineal/neurona_lineal.ipynb)
+  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/regresion-lineal.zip?raw=true).
 
 - Aprendizaje de una neurona
   logística **(en proceso de modificación)**
