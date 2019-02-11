@@ -48,6 +48,7 @@ Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, 
 Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*, *Gitlab*, BitBucket* ...) donde agregará las libretas que vaya resolviendo y permita evaluar sus avances (y mostrar evidencias del conocimiento adquirido en redes neuronales). Les pido que mientras las libreta esté marcada como **en proceso de modificación** no la agreguen a las libretas a resolver. Muchas de las libretas se encuentran en proceso de modificación.
 
 
+
 <!---2018b
 
 - [Fransisco Córdova](https://github.com/Franko1307/redes-neuronales-unison)
