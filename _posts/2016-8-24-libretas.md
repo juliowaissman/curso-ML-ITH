@@ -15,7 +15,7 @@ Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, 
 - Aprendizaje de una neurona
   logística **(para desarrollar)**
   [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/regresion-logistica/neurona_logistica.ipynb)
-  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/regresion_logistica.zip).
+  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/regresion_logistica.zip?raw=true).
 
 - Aprendizaje de una unidad softmax **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/unidad_softmax.ipynb)
