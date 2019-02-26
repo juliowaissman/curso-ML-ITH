@@ -48,6 +48,11 @@ Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, 
 Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*, *Gitlab*, BitBucket* ...) donde agregará las libretas que vaya resolviendo y permita evaluar sus avances (y mostrar evidencias del conocimiento adquirido en redes neuronales). Les pido que mientras las libreta esté marcada como **en proceso de modificación** no la agreguen a las libretas a resolver. Muchas de las libretas se encuentran en proceso de modificación.
 
 
+- [Lizeth Soto](https://github.com/LizethSoto/Evaluaciones-Continuas-RN)
+- [Francisco Tequida](https://github.com/francisco-tequida?tab=repositories)
+- [Jordan Urias](https://github.com/jjups96/Libretas-rn)
+- [Victor Noriega](https://github.com/victornoriega?tab=repositories)
+- [Ricardo Alvarado](https://github.com/ricardoamata/Libretas-RedesNeuronales-2019)
 
 <!---2018b
 
@@ -73,7 +78,7 @@ Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*
 | Liz          |   si   |    si     |   si    |        |          |     |       |       |
 | Tequida      |   si   |    si     |   si    |        |          |     |       |       |
 | Jordan       |   si   |    si     |   si    |        |          |     |       |       |
-| Victor       |   si   |    si     |   si    |        |          |     |       |       |
+| Victor       |   si   |           |         |        |          |     |       |       |
 | Ricardo      |   si   |    si     |   si    |        |          |     |       |       |
 
 <!---2018b
