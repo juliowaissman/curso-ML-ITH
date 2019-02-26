@@ -21,9 +21,9 @@ Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, 
   [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/unidad_softmax/unidad_softmax.ipynb)
   [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/unidad_softmax.zip?raw=true).
 
-- Redes hacia adelante **(en proceso de modificación)**
-  [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/redes_neuronal_hacia_adelante.ipynb)
-  [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/redes_neuronal_hacia_adelante.zip).
+- Redes hacia adelante **(para desarrollar)**
+  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/b-prop/b_prop.ipynb)
+  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/b-prop.zip?raw=true).
 
 - Conceptos básicos de TensorFlow **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/intro_tensorflow.ipynb)
@@ -70,7 +70,11 @@ Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*
 
 | Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | RNN   | RL    |
 |--------------|--------|-----------|---------|--------|----------|---- | ----  | ----- |
-|              |        |           |         |        |          |     |       |       |
+| Liz          |   si   |    si     |   si    |        |          |     |       |       |
+| Tequida      |   si   |    si     |   si    |        |          |     |       |       |
+| Jordan       |   si   |    si     |   si    |        |          |     |       |       |
+| Victor       |   si   |    si     |   si    |        |          |     |       |       |
+| Ricardo      |   si   |    si     |   si    |        |          |     |       |       |
 
 <!---2018b
 
