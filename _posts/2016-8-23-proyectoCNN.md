@@ -7,10 +7,14 @@ image: assets/images/parte3.jpg
 
 ## Listado de proyectos desarrollados por los estudiantes, 2019-1
 
-| Desarrollador                 | Proyecto |
-| -------------                 | -------- |
-
-
+| Desarrollador  | Proyecto |
+| -------------  | -------- |
+| Liz            | Compresión de modelos de CNN |
+| Mata           | Transferencia de estilo fotorealista |
+| Victor         | DeepFakes |
+| Tequida        | Detección de posos en imágenes |
+| Hugues         | PLN con CNN    |
+| Jordan         |                |
 
 ## Listado de proyectos selectos desarrollados en otros semestres
 
