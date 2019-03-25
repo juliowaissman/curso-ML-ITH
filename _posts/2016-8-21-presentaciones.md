@@ -29,6 +29,8 @@ le doy el crédito correspondiente a quien las hizo.
 - [Una presentación introductoria de redes
   convolucionales](/presentaciones/conv_nets.pdf)
 
+- [¿Qué es eso del *transfer learning*?](/presentaciones/transfer_learning.pdf)
+
 - [Una presentación sobre transferencia de estilo en imagenes
   utilizando redes neuronales
   convolucionales](/presentaciones/style_transfer.pdf)
