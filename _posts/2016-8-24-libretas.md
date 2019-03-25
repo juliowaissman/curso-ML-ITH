@@ -25,17 +25,14 @@ Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, 
   [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/b-prop/b_prop.ipynb)
   [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/b-prop.zip?raw=true).
 
-- Conceptos básicos de TensorFlow **(en proceso de modificación)**
-  [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/intro_tensorflow.ipynb)
-  [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/intro_tensorflow.zip).
 
-- Red neuronal sencilla en TensorFlow **(en proceso de modificación)**
-  [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/tensorflow_red_simple.ipynb)
-  [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/tensorflow_red_simple.zip).
+- Red neuronal sencilla en TensorFlow **(para desarrollar)**
+  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/tensorflow_mlp/tensorflow_red_simple.ipynb)
+  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/tensorflow_mlp.zip?raw=true).
 
-- Red neuronal convolucional sencilla en TensorFlow **(en proceso de modificación)**
-  [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/tensorflow_red_simple-cnn.ipynb)
-  [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/tensorflow_red_simple_cnn.zip).
+- Red neuronal convolucional sencilla en TensorFlow **(para desarrollar)**
+  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/cnn-sencilla/cnn-sencilla.ipynb)
+  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/cnn-sencilla.zip?raw=true).
 
 - Modelo de generación de texto con redes recurrentes **(en proceso de modificación)**
   [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/redes_recurrentes.ipynb)
@@ -73,13 +70,13 @@ Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*
 ## Relación de libretas con participantes en el curso
 
 
-| Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | RNN   | RL    |
-|--------------|--------|-----------|---------|--------|----------|---- | ----  | ----- |
-| Liz          |   si   |    si     |   si    |        |          |     |       |       |
-| Tequida      |   si   |    si     |   si    |        |          |     |       |       |
-| Jordan       |   si   |    si     |   si    |        |          |     |       |       |
-| Victor       |   si   |           |         |        |          |     |       |       |
-| Ricardo      |   si   |    si     |   si    |        |          |     |       |       |
+| Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | 
+|--------------|--------|-----------|---------|--------|----------|---- | 
+| Liz          |   si   |    si     |   si    | si     |          |     | 
+| Tequida      |   si   |    si     |   si    | si     |          |     | 
+| Jordan       |   si   |    si     |   si    | si     |          |     | 
+| Victor       |   si   |           |         |        |          |     | 
+| Ricardo      |   si   |    si     |   si    |        |          |     | 
 
 <!---2018b
 
