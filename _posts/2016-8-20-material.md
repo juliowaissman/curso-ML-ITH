@@ -66,6 +66,8 @@ La bibliotece de la DCEN tiene varias copias.
 detección de objetos en
 imágenes](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 
+- [Un artículo muy interesante sobre transferencia de aprendizaje (fundamental en CNNs)][https://arxiv.org/pdf/1411.1792.pdf]
+
 - [El artículo original de *style transfer* de Gatty *et. al*, 2016,
   en versión libre](/articulos/style_transfer.pdf)
 
