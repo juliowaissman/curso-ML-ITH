@@ -35,6 +35,8 @@ le doy el crédito correspondiente a quien las hizo.
   utilizando redes neuronales
   convolucionales](/presentaciones/style_transfer.pdf)
 
+- [Redes convolucionales aplicadas en procesamiento de lenguaje natural](/presentaciones/cnn_pln.pdf)
+
 - [Una presentación fea pero completa sobre *campos aleatorios condicionales* (CRF)](/presentaciones/crf_intro.pdf)
 
 - [Una presentación introductoria de redes recurrentes (de G. Hitton)](/presentaciones/redes_recurrentes.pdf)
