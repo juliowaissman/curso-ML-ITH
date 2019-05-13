@@ -84,6 +84,19 @@ imágenes](https://towardsdatascience.com/deep-learning-for-object-detection-a-c
 - [Redes recurrentes para la generación de texto](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 
+## RNN vs CNN (Una discusión actual)
+
+- [El post más controversial (básicamente te invita a tirar a la basura todas tus LSTM)](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
+
+- [Comparativo entre RNN y CNN en clasificación de texto](https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f)
+
+- [Un estudio comparativo entre RNN y CNN en PLN](https://arxiv.org/pdf/1702.01923.pdf)
+
+- [Un comparativo entre RNN y CNN en predicción en series de tiempo](https://arxiv.org/pdf/1508.00021.pdf)
+
+- [Combinando RNN con CNN](https://machinelearningmastery.com/cnn-long-short-term-memory-networks/)
+
+
 ## Redes con aprendizaje por refuerzo
 
 - [Una serie de posts sobre Deep RL de A. Juliani, enfocados a su implementación en *TensorFlow*](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
