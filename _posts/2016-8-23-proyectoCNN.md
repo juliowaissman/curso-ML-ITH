@@ -9,7 +9,7 @@ image: assets/images/parte3.jpg
 
 | Desarrollador                 | Proyecto |
 | -------------                 | -------- |
-| **Victor Noriega** | [Faceswap, o cambio de caras] (https://victornoriega.github.io/deepfakes/) |
+| **Victor Noriega** | [Faceswap, o cambio de caras](https://victornoriega.github.io/deepfakes/) |
 | **Francisco Tequida** | [Deep Pose, o detección de poses](https://francisco-tequida.github.io/proyecto-cnn/)
 | **Ricardo Alvarado Mata** | [Transferencia de estilo fotorealista](https://ricardoamata.github.io/Photorealistic-style-transfer/)
 | **Francisco E. Córdova** | [Contador de celulas blancas en imágenes con CNN](https://franko1307.github.io/2018/11/05/Clasificador-redes-neuronales.html) |
