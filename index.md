@@ -1,36 +1,15 @@
 ---
 layout: home
 title: Home
-landing-title: 'Redes Neuronales, <br>material del curso'
+landing-title: 'Aprendizaje Automático, <br>material del curso'
 description: null
 image: null
 author: null
 ---
 
-El jardín de las delicias ([copiado de *Wikipedia*](https://es.wikipedia.org/wiki/El_jard%C3%ADn_de_las_delicias)) es una de las obras más conocidas del pintor
-holandés [Jheronimus Bosch (el Bosco)](https://es.wikipedia.org/wiki/El_Bosco). Se trata de un tríptico pintado
-al óleo sobre tabla de 220 x 389 cm, compuesto de una tabla central de
-220 x 195 cm y dos laterales de 220 x 97 cada una (pintadas en sus dos
-lados) que se pueden cerrar sobre aquella.
+Colección que se puede consultar en linea en [Amos por siempre: El misterio de los Cráneos Zapotecas](https://artsandculture.google.com/exhibit/tAISqLnzjydKLg).
 
-Considerada como una de las obras más fascinantes, misteriosas y
-atrayentes de la historia del arte, el cuadro forma parte de los
-fondos de exposición permanente del Museo del Prado de Madrid, donde
-ingresó como depósito del Patrimonio Nacional en 1939.
 
-Como sucede con todas las pinturas antiguas, el título con el que se
-la conoce es moderno. El inventario de la entrega a El Escorial de
-1593 la describe como *Una pintura en tabla al olio, con dos puertas,
-de la bariedad (sic) del mundo, cifrada con diversos disparates de
-Hierónimo Bosco, que llaman Del Madroño*.
+> En el México antiguo, antes de la caída de Tenochtitlán en 1521, las creencias en torno a la muerte eran variadas; incluían el tránsito  a distintos niveles de existencia, por lo que el tratamiento del cuerpo *sin vida* dependía en gran forma de la ocupación de la persona, de su edad, sexo, rango social y manera de muerte. Algunos cuerpos eran tratados con extrema delicadeza, pues se convertían en objetos de poder, en ancestros cuyas historias se contarían por generaciones. Estos serían **Amos por siempre**. 
 
-Como el resto de las obras del Bosco, carece de datación unánime entre
-los especialistas, siendo una de aquellas en las que más enfrentadas
-están las posiciones, pues mientras unos la consideran juvenil, otros
-dicen que es obra de madurez. En el catálogo de la exposición sobre el
-artista celebrada en Róterdam en el año 2001 se señala la fecha entre
-1480 y 1490. En la guía de visita editada por el Museo del Prado se
-señalan las fechas 1500-1505.
-
-Una imágen completa y detallada de la pintura se puede consultar
-[aquí](https://upload.wikimedia.org/wikipedia/commons/a/ae/El_jard%C3%ADn_de_las_Delicias%2C_de_El_Bosco.jpg).
+Te invito a realizar la visita virtual, y si visitas Puebla, no dejes de ir a la [Casa del Mendrugo](https://www.casadelmendrugo.com/?lang=es) y visitar la exposición.
