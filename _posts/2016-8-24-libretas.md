@@ -5,87 +5,15 @@ description: Libretas de jupyter para evaluación contínua
 image: assets/images/parte2.jpg
 ---
 
-Todas las libretas están diseñadas para ejecutarse en *python 3.X* para esto, es recomendable hacerlo desde un *contenedor de Docker* el cual se encuentra en elaboración.
+Todas las libretas están diseñadas para ejecutarse en *python 3.X* es recomendable [utilizar el contenedor docker que provée jupyter para aprendizaje](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html). En general me parece que `jupyter-scipy` es suficiente para lo que vamos a realizar.
 
+Por el momento no tengo terminadas las libretas, por las que las iremos agregando a lo largo del curso. Muchas de estas las desarrollaremos o probaremos en el curso.
 
-- Aprendizaje de una neurona lineal **(para desarrollar)**
-  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/regresion-lineal/neurona_lineal.ipynb)
-  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/regresion-lineal.zip?raw=true).
-
-- Aprendizaje de una neurona
-  logística **(para desarrollar)**
-  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/regresion-logistica/neurona_logistica.ipynb)
-  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/regresion-logistica.zip?raw=true).
-
-- Aprendizaje de una unidad softmax **(para desarrollar)**
-  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/unidad_softmax/unidad_softmax.ipynb)
-  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/unidad_softmax.zip?raw=true).
-
-- Redes hacia adelante **(para desarrollar)**
-  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/b-prop/b_prop.ipynb)
-  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/b-prop.zip?raw=true).
-
-
-- Red neuronal sencilla en TensorFlow **(para desarrollar)**
-  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/tensorflow_mlp/tensorflow_red_simple.ipynb)
-  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/tensorflow_mlp.zip?raw=true).
-
-- Red neuronal convolucional sencilla en TensorFlow **(para desarrollar)**
-  [(ver)](https://github.com/rn-unison/rn-jupyter/blob/master/cnn-sencilla/cnn-sencilla.ipynb)
-  [(descargar)](https://github.com/rn-unison/rn-jupyter/blob/master/cnn-sencilla.zip?raw=true).
-
-- Modelo de generación de texto con redes recurrentes **(en proceso de modificación)**
-  [(ver)](https://github.com/curso-redes-neuronales-unison/Material/blob/master/libretas/redes_recurrentes.ipynb)
-  [(descargar)](https://github.com/curso-redes-neuronales-unison/Material/raw/master/libretas/redes_recurrentes.ipynb).
 
 
 
 ## Evidencias de resolución de libretas por los participantes del curso (solo los que vamos a evaluar):
 
-Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*, *Gitlab*, BitBucket* ...) donde agregará las libretas que vaya resolviendo y permita evaluar sus avances (y mostrar evidencias del conocimiento adquirido en redes neuronales). Les pido que mientras las libreta esté marcada como **en proceso de modificación** no la agreguen a las libretas a resolver. Muchas de las libretas se encuentran en proceso de modificación.
+Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*, *Gitlab*, BitBucket* ...) donde agregará las libretas que vaya resolviendo y permita evaluar sus avances (y mostrar evidencias del conocimiento adquirido en redes neuronales). Les pido que mientras las libreta esté marcada como **en proceso de modificación** no la agreguen a las libretas a resolver.
 
 
-- [Lizeth Soto](https://github.com/LizethSoto/Evaluaciones-Continuas-RN)
-- [Francisco Tequida](https://github.com/francisco-tequida?tab=repositories)
-- [Jordan Urias](https://github.com/jjups96/Libretas-rn)
-- [Victor Noriega](https://github.com/victornoriega?tab=repositories)
-- [Ricardo Alvarado](https://github.com/ricardoamata/Libretas-RedesNeuronales-2019)
-
-<!---2018b
-
-- [Fransisco Córdova](https://github.com/Franko1307/redes-neuronales-unison)
-
-- [Raúl Pérez](https://github.com/raulperod/redes-neuronales)
-
-- [Cesar Salazar](https://github.com/cesern/redes-neuronales/)
-
-- [Roberto Salazar](https://github.com/robertosalazare/redesneuronales_libretas)
-
-- [Luís Fernando Sotomayor](https://bitbucket.org/sanlf/)
-
-- [Adrián Vazquez](https://github.com/adrianEVI/neural-network/tree/master/notebook)
---->
-
-
-## Relación de libretas con participantes en el curso
-
-
-| Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | 
-|--------------|--------|-----------|---------|--------|----------|---- | 
-| Liz          |   si   |    si     |   si    | si     |          |     | 
-| Tequida      |   si   |    si     |   si    | si     |          |     | 
-| Jordan       |   si   |    si     |   si    | si     |          |     | 
-| Victor       |   si   |           |         |        |          |     | 
-| Ricardo      |   si   |    si     |   si    |        |          |     | 
-
-<!---2018b
-
-| Nombre       | Lineal | Logística | Softmax | B-prop | intro TF | CNN | RNN   | RL    |
-|--------------|--------|-----------|---------|--------|----------|---- | ----  | ----- |
-| F. Córdova   |  si    |    si     |    si   |   si   |   si     |  si |  si   |  si   |
-| R. Pérez     |  si    |    si     |    si   |   si   |   si     |  si |  1/2  |  no   |
-| C. Salazar   |  si    |    si     |    si   |   si   |   si     |  si |  1/2  |  no   |
-| R. Salazar   |  si    |    si     |    si   |   si   |   si     | 1/2 |  1/2  |  si   |
-| L. Sotomayor |  si    |    si     |    si   |   si   |   si     | 1/2 |  1/2  |  si   |
-| A. Vázquez   |  si    |    si     |    si   |   si   |   si     |  no |  no   |  no   |
---->
