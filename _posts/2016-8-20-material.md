@@ -9,13 +9,13 @@ image: assets/images/parte6.jpg
 
 1. El sitio del curso [*Learning for Data*](https://work.caltech.edu/telecourse.html) de [Yaser S.Abu-Mostafa](https://work.caltech.edu) de CalTech, es probablemente el mejor curso (no edulcorado) que conozco sobre aprendizaje supervisado. Le da un énfasis especial a entender los principios básicos antes de pasar a las técnicas particulares. El sitio incluye
   
-  1. Lecturas en *youtube*
+     1. Lecturas en *youtube*
   
-  2. Las presentaciones en *pdf*
+     2. Las presentaciones en *pdf*
   
-  3. Una liga al [libro homónimo del curso](https://www.amazon.com/gp/product/1600490069)
+     3. Una liga al [libro homónimo del curso](https://www.amazon.com/gp/product/1600490069)
   
-  4. Tareas y proyecto
+     4. Tareas y proyecto
   
 2. El [curso de Machine Learning en Coursera](https://www.coursera.org/learn/machine-learning) de [Andrew Ng](https://www.andrewng.org) es posiblemente el curso en linea más popular en Aprendizaje Automático. El profesor es magistral y explica los métodos sin requerir conocimientos en matematicas, lo que hace que el curso sea a un nivel bastante superficial, pero no por eso muy recomendable.
 
