@@ -23,5 +23,11 @@ Cada estudiante va a generar un proyecto público en un servidor *git* (*GitHub*
    
    Si lo requieres, puedes tomar el minicurso sobre python antes de el de pandas.
 
+2. Despues de ver los videos de Andrew Ng sobre regresión lineal de las actividades extra aula, puedes [resolver esta libreta](https://github.com/cursoRdP-unison/MLS). Ten cuidado, esta libreta la hice hace ya 4 aós y tiene algunos errores.
+
+3. Después de ver los videos de Andrew Ng sobre regresión logística de las actividades extra aula, puedes [resolver esta libreta]( https://github.com/cursoRdP-unison/MLS). Ten cuidado la libreta es viejita y tiene algunos errorcitos en la redacción y alguno en el programa.
+
+4. Después de ver los videos de Andrew Ng sobre regularización, puedes [resolver esta libreta](https://github.com/cursoRdP-unison/regu). Ten cuidado a los posibles errores que le hubiera insertado involuntariamente a la libreta.
+
 
 
