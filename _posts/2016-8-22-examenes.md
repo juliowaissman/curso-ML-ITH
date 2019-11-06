@@ -28,3 +28,7 @@ Los videos que les recomiendo ver (muy sencillitos, no piden casi ningun conocim
 
 Ver los videos, hacer una lista de preguntas a resolver, y resolver las libretas 2 y 3 (regresión lineal y regresión logística).
 
+## 2. Examen intermedio
+
+Ya se encuentra el examen intermedio y se puede descargar [aquí](presentaciones/examen_intermedio_2018b.pdf).
+
