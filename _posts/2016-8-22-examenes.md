@@ -30,5 +30,5 @@ Ver los videos, hacer una lista de preguntas a resolver, y resolver las libretas
 
 ## 2. Examen intermedio
 
-Ya se encuentra el examen intermedio y se puede descargar [aquí](https://github.com/ml-unison/ml-unison.github.io/raw/master/presentaciones/examen_intermedio_2018b.pdf).
+Ya se encuentra el examen intermedio y se puede descargar [aquí](https://github.com/ml-unison/ml-unison.github.io/raw/master/articulos/examen_intermedio.pdf).
 
