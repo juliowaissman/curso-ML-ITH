@@ -4,7 +4,7 @@ subtitle: Aprendizaje Automático
 email: julio.waissman@unison.mx
 description: Curso de actualización intersemestral
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://juliowaissman.github.io/curso-ML-ITH # the base hostname & protocol for your site
+url: https://juliowaissman.github.io # the base hostname & protocol for your site
 author: Julio Waissman Vilanova
 institucion: Universidad de Sonora
 departamento: Departamento de Matemáticas
