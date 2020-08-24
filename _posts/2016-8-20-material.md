@@ -42,4 +42,4 @@ image: assets/images/parte6.jpg
 
 ## Instalación del entorno de python
 
-
+1. [Instrucciones](https://github.com/juliowaissman/curso-ML-ITH/raw/master/material/instalacion.pdf)
