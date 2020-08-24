@@ -11,5 +11,5 @@ le doy el crédito correspondiente a quien las hizo. Se iran agregando las prese
 
 
 1. [¿Qué es Jupyter?](/material/jupyter/index.html)
-2. [Introducción a la ciencia de datos](/material/data_science.pdf)
-3. [Introducción al aprendizaje automatico](/material/machine_learning.pdf)
+2. [Introducción a la ciencia de datos](https://github.com/juliowaissman/curso-ML-ITH/raw/master/material/data_science.pdf)
+3. [Introducción al aprendizaje automatico](https://github.com/juliowaissman/curso-ML-ITH/raw/master/material/machine_learning.pdf)
