@@ -1,8 +1,8 @@
-# site settings
-title: ML@UNISON
-subtitle: Licenciatura en Ciencias de la Computación
+z# site settings
+title: Curso ITH
+subtitle: Aprendizaje Automático
 email: julio.waissman@unison.mx
-description: Departamento de Matemáticas, Lic. en Ciencias de la Computación
+description: Curso de actualización intersemestral
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://ml-unison.github.io # the base hostname & protocol for your site
 author: Julio Waissman Vilanova
