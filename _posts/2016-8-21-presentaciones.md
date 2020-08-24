@@ -10,3 +10,6 @@ por mi, y parte tomadas prestadas, otras directamente las tomo prestadas de algu
 le doy el crédito correspondiente a quien las hizo. Se iran agregando las presentaciones conforme avance el curso.
 
 
+1. [¿Qué es Jupyter?](/material/jupyter/index.html)
+2. [Introducción a la ciencia de datos](/material/data_science.pdf)
+3. [Introducción al aprendizaje automatico](/material/machine_learning.pdf)
